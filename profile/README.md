@@ -1,0 +1,14 @@
+# AirlockOS
+
+AirlockOS runs [NixOS](https://nixos.org/) in every virtual machine using the
+[Qubes](https://www.qubes-os.org/) architecture.
+
+Xen runs the VMs, Qubes manages their isolation and communication, and Nix defines
+the system configuration. Whole-machine updates and rollback keep the VMs on a
+shared system generation while preserving their private data.
+
+AirlockOS is under active development. Qubes OS security equivalence has not been
+established.
+
+- [Source code](https://github.com/airlock-org/airlock)
+- [Security and limitations](https://github.com/airlock-org/airlock/blob/main/SECURITY.md)
