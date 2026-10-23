@@ -1,4 +1,9 @@
-# AirlockOS
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airlock-org/.github/main/profile/assets/airlock-wordmark-thin-red-dark.svg">
+    <img alt="AirlockOS" src="https://raw.githubusercontent.com/airlock-org/.github/main/profile/assets/airlock-wordmark-thin-red-light.svg" height="64">
+  </picture>
+</p>
 
 AirlockOS runs [NixOS](https://nixos.org/) in every virtual machine using the
 [Qubes](https://www.qubes-os.org/) architecture.
